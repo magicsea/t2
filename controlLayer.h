@@ -4,7 +4,7 @@
 //
 //  Created by mirror on 10-5-22.
 //  Copyright 2010 zhong. All rights reserved.
-//4141
+//4141assg
 
 #import "cocos2d.h"
 #import "gameLayer.h"
